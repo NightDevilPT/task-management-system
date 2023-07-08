@@ -1,0 +1,6 @@
+{
+  "extends": "next/core-web-vitals",
+  "react/no-unescaped-entities":"off",
+  "react-hooks/react-of-hooks":"off",
+  "react-hooks/exhausted-deps":"off"
+}
